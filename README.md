@@ -1,6 +1,6 @@
-# Python 3 Flask-Login Project to Build Google OAuth2 Login & Logout System Using SQLite Database
+## Python 3 Flask-Login Project to Build Google OAuth2 Login & Logout System Using SQLite Database
 
-## Install
+### Install
 
     git clone https://github.com/evadelzz1/flask_login5.git
 
@@ -17,6 +17,6 @@
 
     python app.py
 
-## Reference
+### Reference
 
 - [Python 3 Flask-Login Project to Build Google OAuth2 Login & Logout System Using SQLite Database](https://www.youtube.com/watch?v=Z0S0VVVoTpw)
